@@ -1,0 +1,18 @@
+2024-08-22 16:22:38,281  INFO [main] LoginPageTest:28 - ****************************** Starting test cases execution  *****************************************
+2024-08-22 16:22:46,825  INFO [main] TestBase:80 - entering application URL
+2024-08-22 16:22:58,331  WARN [main] TestBase:82 - Hey this just a warning message
+2024-08-22 16:22:58,346 FATAL [main] TestBase:83 - hey this is just fatal error message
+2024-08-22 16:22:58,347 DEBUG [main] TestBase:84 - this is debug message
+2024-08-22 16:23:01,380  INFO [main] LoginPageTest:61 - ******************************End test cases execution *****************************************
+2024-08-22 16:23:01,399  INFO [main] LoginPageTest:28 - ****************************** Starting test cases execution  *****************************************
+2024-08-22 16:23:07,262  INFO [main] TestBase:80 - entering application URL
+2024-08-22 16:23:17,477  WARN [main] TestBase:82 - Hey this just a warning message
+2024-08-22 16:23:17,478 FATAL [main] TestBase:83 - hey this is just fatal error message
+2024-08-22 16:23:17,479 DEBUG [main] TestBase:84 - this is debug message
+2024-08-22 16:23:19,063  INFO [main] LoginPageTest:61 - ******************************End test cases execution *****************************************
+2024-08-22 16:23:19,068  INFO [main] LoginPageTest:28 - ****************************** Starting test cases execution  *****************************************
+2024-08-22 16:23:24,199  INFO [main] TestBase:80 - entering application URL
+2024-08-22 16:23:35,882  WARN [main] TestBase:82 - Hey this just a warning message
+2024-08-22 16:23:35,888 FATAL [main] TestBase:83 - hey this is just fatal error message
+2024-08-22 16:23:35,889 DEBUG [main] TestBase:84 - this is debug message
+2024-08-22 16:23:52,382  INFO [main] LoginPageTest:61 - ******************************End test cases execution *****************************************
